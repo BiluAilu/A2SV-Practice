@@ -3,14 +3,14 @@ power,num=map(int,input().split())
 bonus=[]
 dragonP=[]
 for i in range(num):
-    x,y=map(int,input().split())
-    dragonP.append(x)
-    bonus.append(y)
+    dragonP=list(map(int,input().split()))
+    # dragonP.append(x)
+    # bonus.append(y)
 # print(*bonus)
 win=True
 for i in range(num):
-    if(power>dragonP[i]):
-        power+=bonus[i]
+    if(power>dragonP[0]):
+        power+=dragonP[1]
     else:
         win=False
         break
