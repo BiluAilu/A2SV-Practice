@@ -1,0 +1,1 @@
+{"name":"Local: Odd Divisor","url":"c:\\Users\\G15\\Music\\A2V\\Contest\\20\\Odd Divisor.py","tests":[{"id":1683442320577,"input":"6\n2\n3\n4\n5\n998244353\n1099511627776","output":"NO\nYES\nNO\nYES\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\G15\\Music\\A2V\\Contest\\20\\Odd Divisor.py","group":"local","local":true}

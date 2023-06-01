@@ -1,0 +1,1 @@
+{"name":"Local: queue","url":"c:\\Users\\G15\\Music\\A2V\\Contest\\Camp\\queue.py","tests":[{"id":1678553118254,"input":"5\n15 2 1 5 3","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\G15\\Music\\A2V\\Contest\\Camp\\queue.py","group":"local","local":true}

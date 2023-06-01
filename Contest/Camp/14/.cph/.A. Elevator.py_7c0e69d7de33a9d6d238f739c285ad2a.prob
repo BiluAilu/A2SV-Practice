@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"c:\\Users\\G15\\Music\\A2V\\Contest\\Camp\\14\\A. Elevator.py","tests":[{"id":1679159957976,"input":"2\n5 2 2\n3 2 2","output":"12\n10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\G15\\Music\\A2V\\Contest\\Camp\\14\\A. Elevator.py","group":"local","local":true}

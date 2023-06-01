@@ -1,0 +1,1 @@
+{"name":"Local: C","url":"c:\\Users\\G15\\Music\\A2V\\Contest\\Camp\\13\\C.py","tests":[{"id":1678984732545,"input":"10\n","output":"1"},{"id":1678986152451,"input":"991","output":"3"},{"id":1678986159334,"input":"0","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\G15\\Music\\A2V\\Contest\\Camp\\13\\C.py","group":"local","local":true}

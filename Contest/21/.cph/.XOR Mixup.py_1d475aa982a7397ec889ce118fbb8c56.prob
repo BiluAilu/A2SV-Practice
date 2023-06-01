@@ -1,0 +1,1 @@
+{"name":"Local: XOR Mixup","url":"c:\\Users\\G15\\Music\\A2V\\Contest\\21\\XOR Mixup.py","tests":[{"id":1684046262860,"input":"4\n4\n4 3 2 5\n5\n6 1 10 7 10\n6\n6 6 6 6 6 6\n3\n100 100 0\n","output":"3\n7\n6\n0\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\G15\\Music\\A2V\\Contest\\21\\XOR Mixup.py","group":"local","local":true}

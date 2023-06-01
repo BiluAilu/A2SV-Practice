@@ -1,0 +1,1 @@
+{"name":"Local: B-Taxi","url":"c:\\Users\\G15\\Music\\A2V\\Contest\\19\\B-Taxi.py","tests":[{"id":1682969915072,"input":"5\n1 2 4 3 3","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\G15\\Music\\A2V\\Contest\\19\\B-Taxi.py","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: C","url":"c:\\Users\\G15\\Music\\A2V\\Contest\\Camp\\14\\C. A2SV Verses.py","tests":[{"id":1679158591821,"input":"5 3 6\n1 2 6 5 2","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\G15\\Music\\A2V\\Contest\\Camp\\14\\C. A2SV Verses.py","group":"local","local":true}
